@@ -73,7 +73,7 @@ nav {
     font-weight: bold;
     font-style: italic;
     padding: 0;
-    padding-left: 1%;
+    padding-left: max(7px,1%);
     margin-right: auto;
     height: 100%;
     width: auto;
